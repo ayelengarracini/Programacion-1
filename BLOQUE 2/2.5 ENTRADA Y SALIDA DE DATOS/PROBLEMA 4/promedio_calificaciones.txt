@@ -1,0 +1,13 @@
+REPORTE DE CALIFICACIONES
+========================
+Ana: 9.0
+Juan: 7.0
+Maria: 10.0
+Pedro: 6.0
+Lucia: 8.0
+Sofia: 11.0
+
+Cantidad de estudiantes: 6
+Promedio general: 8.50
+Nota maxima: 11.00
+Nota minima: 6.00
