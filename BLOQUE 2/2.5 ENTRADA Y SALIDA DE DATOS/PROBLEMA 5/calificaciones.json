@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Ana",
+        "calificacion": 9
+    },
+    {
+        "nombre": "Juan",
+        "calificacion": 7
+    },
+    {
+        "nombre": "Maria",
+        "calificacion": 10
+    },
+    {
+        "nombre": "Pedro",
+        "calificacion": 6
+    },
+    {
+        "nombre": "Lucia",
+        "calificacion": 8
+    },
+    {
+        "nombre": "Sofia",
+        "calificacion": 11
+    }
+]
