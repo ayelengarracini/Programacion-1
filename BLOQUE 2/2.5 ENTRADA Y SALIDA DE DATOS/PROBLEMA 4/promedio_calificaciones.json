@@ -1,0 +1,12 @@
+{
+    "cantidad_estudiantes": 6,
+    "promedio_calificaciones": 8.5,
+    "calificacion_maxima": {
+        "nombre": "Sofia",
+        "calificacion": 11
+    },
+    "calificacion_minima": {
+        "nombre": "Pedro",
+        "calificacion": 6
+    }
+}
