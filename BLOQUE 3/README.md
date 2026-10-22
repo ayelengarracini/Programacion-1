@@ -13,4 +13,3 @@ Contenido de la carpeta:
 12) Desafío 42.
 13) Desafío extra.
 14) Desafío extra 2.
-15) Desafío test defensa oral.
